@@ -1,16 +1,4 @@
-# HexBug Motion Prediction Project (Spring 2015)
-
-# Summary: 
-
-This project takes in a textile composed of coordinate pairs, with each coordinate pair representing the location of a robotic bug on a fixed map grid. Our program uses an Extended Kalman Filter to predict the location of the bug for up to 60 frames after the last frame in the data set. 
-
-# Repo Contents: 
-
-hexbug-training_video-centroid_data includes the training set data we used to write and test our algorithm. 
-
-prediction-example.txt includes a sample output of 60 frames. 
-
-# Instructions: 
+HOW TO OPERATE
 
 To execute this program, please use the following steps:
 
